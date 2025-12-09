@@ -1,5 +1,7 @@
 # Exercise 5: Sliding Window - Distinct Elements
 
+![Exercise 5 Output](./Screenshot%202025-12-07%20200638.png)
+
 ## Description
 This exercise implements a sliding window algorithm to count distinct elements in each window of size k in an array.
 

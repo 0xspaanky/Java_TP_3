@@ -1,5 +1,7 @@
 # Exercise 2: Centered Star Triangle
 
+![Exercise 2 Output](./image.png)
+
 ## Description
 This exercise displays a centered triangle made of stars (asterisks).
 

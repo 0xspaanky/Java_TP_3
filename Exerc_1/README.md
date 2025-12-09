@@ -1,5 +1,7 @@
 # Exercise 1: Harmonic Series
 
+![Exercise 1 Output](./Screenshot%202025-12-06%20162739.png)
+
 ## Description
 This exercise calculates the sum of the first N terms of the harmonic series.
 

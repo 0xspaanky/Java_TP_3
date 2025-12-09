@@ -1,5 +1,7 @@
 # Exercise 6: Sliding Window - Distinct Values Count
 
+![Exercise 6 Diagram](./image.png)
+
 ## Objective
 For an integer array T of size n and a window of size k, calculate for each window position the number of distinct elements within that window, using O(n) time complexity with loops and arrays only.
 
@@ -36,11 +38,11 @@ This exercise implements an efficient sliding window algorithm to count distinct
 
 **Windows (size 4):**
 ```
-[1 2 2 3] ’ 3 distinct elements
-[2 2 3 2] ’ 2 distinct elements
-[2 3 2 1] ’ 3 distinct elements
-[3 2 1 4] ’ 4 distinct elements
-[2 1 4 2] ’ 3 distinct elements
+[1 2 2 3] ï¿½ 3 distinct elements
+[2 2 3 2] ï¿½ 2 distinct elements
+[2 3 2 1] ï¿½ 3 distinct elements
+[3 2 1 4] ï¿½ 4 distinct elements
+[2 1 4 2] ï¿½ 3 distinct elements
 ```
 
 **Output:**

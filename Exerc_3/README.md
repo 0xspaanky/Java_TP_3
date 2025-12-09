@@ -1,5 +1,7 @@
 # Exercise 3: Odd Squares
 
+![Exercise 3 Output](./image.png)
+
 ## Description
 This exercise calculates and displays the squares of the first N odd numbers.
 

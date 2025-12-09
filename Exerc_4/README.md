@@ -1,5 +1,7 @@
 # Exercise 4: Double Array Utilities
 
+![Exercise 4 Output](./image.png)
+
 ## Description
 This exercise provides utility methods for working with 2D arrays (matrices) of double values.
 
